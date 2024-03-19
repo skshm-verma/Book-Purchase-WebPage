@@ -19,11 +19,11 @@ Immerse yourself in the world of literature with this visually stunning and user
 - HTML (Structure and Content)
 - Bootstrap 5 (Responsive Design and Styling)
 
-  **Visual:**
-
+**Visual:**
+#
   ![screencapture-book-purchase-web-page-vercel-app-2024-03-19-18_42_28](https://github.com/skshm-verma/Book-Purchase-WebPage/assets/106864834/34e4466f-a625-49a6-8cba-3a270dcb457d)
 
-
+#
 **Getting Started:**
 
 1. **Clone the Repository:** Use `git clone https://github.com/skshm-verma/Book-Purchase-WebPage.git` to download the project files.
